@@ -1,0 +1,5 @@
+﻿  Solver.cpp
+C:\Users\kenshin oga\Google ドライブ\進路系\0210\rolltheball_solver\roll the ball\Solver.cpp(419,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kenshin oga\Google ドライブ\進路系\0210\rolltheball_solver\roll the ball\Solver.cpp(427,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kenshin oga\Google ドライブ\進路系\0210\rolltheball_solver\roll the ball\Solver.cpp(545,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  roll the ball.vcxproj -> C:\Users\kenshin oga\Google ドライブ\進路系\0210\rolltheball_solver\roll the ball\Debug\roll the ball.exe

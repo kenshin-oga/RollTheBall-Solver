@@ -1,0 +1,11 @@
+﻿  Solver.cpp
+C:\Users\kenshin oga\OneDrive - 独立行政法人 国立高等専門学校機構\ドキュメント\rolltheball_solver\Solver.cpp(415,12): warning C4552: '<=': 式の結果が使用されていません
+C:\Users\kenshin oga\OneDrive - 独立行政法人 国立高等専門学校機構\ドキュメント\rolltheball_solver\Solver.cpp(414,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kenshin oga\OneDrive - 独立行政法人 国立高等専門学校機構\ドキュメント\rolltheball_solver\Solver.cpp(511,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kenshin oga\OneDrive - 独立行政法人 国立高等専門学校機構\ドキュメント\rolltheball_solver\Solver.cpp(735,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  コード生成しています。
+  2 of 24 functions ( 8.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  roll the ball.vcxproj -> C:\Users\kenshin oga\OneDrive - 独立行政法人 国立高等専門学校機構\ドキュメント\rolltheball_solver\x64\Release\roll the ball.exe
